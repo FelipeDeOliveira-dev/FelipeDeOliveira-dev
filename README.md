@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou Felipe Machado 👋
 
-<!--
-**FelipeDeOliveira-dev/FelipeDeOliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de software com foco em **engenharia de dados**.  
+Atualmente estagiando no time de Engenharia de Dados da **PGmais**, utilizando **Python**, **Spark**, **SQL/T-SQL** e **ETL** para manipulação e integração de dados.  
+Apaixonado por tecnologia, sempre em busca de novos desafios e soluções criativas.
 
-Here are some ideas to get you started:
+## Minhas Tecnologias
+🐍 Python | 🐘 SQL | ⚡ Spark | 🗄️ ETL | 🔷 C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/felipe-de-oliveira-40208225b/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:felipeoliveira16.info@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/lipedeoliveira_?igsh=MzZhaHg3M2RyYTc%3D&utm_source=qr )
+
