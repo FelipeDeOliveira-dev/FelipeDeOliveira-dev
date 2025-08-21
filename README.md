@@ -2,7 +2,7 @@
 
 Desenvolvedor de software com foco em **engenharia de dados**.  
 Atualmente estagiando no time de Engenharia de Dados da **PGmais**, utilizando **Python**, **Spark**, **SQL/T-SQL** e **ETL** para manipulação e integração de dados.  
-Apaixonado por tecnologia, sempre em busca de novos desafios e soluções criativas.
+Entusiasta por tecnologia, sempre em busca de novos desafios e soluções criativas.
 
 ## Minhas Tecnologias
 🐍 Python | 🐘 SQL | ⚡ Spark | 🗄️ ETL | 🔷 C#
