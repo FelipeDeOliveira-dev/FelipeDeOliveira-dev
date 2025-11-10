@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe Machado 👋
 
-Desenvolvedor de software 
+Desenvolvedor de software. 
 Atualmente estagiando no time de integração de softawares da **PGmais**, utilizando **SQL/T-SQL** e **ETL** para manipulação e integração de dados.  
 Entusiasta por tecnologia, sempre em busca de novos desafios e soluções criativas.
 
