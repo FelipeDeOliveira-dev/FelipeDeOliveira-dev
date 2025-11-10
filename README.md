@@ -1,7 +1,7 @@
 # Olá! Eu sou Felipe Machado 👋
 
-Desenvolvedor de software com foco em **engenharia de dados**.  
-Atualmente estagiando no time de Engenharia de Dados da **PGmais**, utilizando **Python**, **Spark**, **SQL/T-SQL** e **ETL** para manipulação e integração de dados.  
+Desenvolvedor de software 
+Atualmente estagiando no time de integração de softawares da **PGmais**, utilizando **SQL/T-SQL** e **ETL** para manipulação e integração de dados.  
 Entusiasta por tecnologia, sempre em busca de novos desafios e soluções criativas.
 
 ## Minhas Tecnologias
