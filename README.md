@@ -5,7 +5,7 @@ Atualmente estagiando no time de integração de softawares da **PGmais**, utili
 Entusiasta por tecnologia, sempre em busca de novos desafios e soluções criativas.
 
 ## Minhas Tecnologias
-🐍 Python | 🐘 PL/SQL | 🗄️ ETL | 🔷 C#
+🐍 Python | 🐘 PL/SQL | 🗄️ ETL | Airflow | Polars
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/felipe-de-oliveira-40208225b/)
